@@ -41,7 +41,7 @@ The aim of this project is to build a pdf chatbot using open source Large Langua
   response time : 6 - 7 mins (variable)
 
 ## :book:steps to run:
-# GPU folder -
+### GPU folder -
   
   * download the model from the hugging face repository
   * upload the model in the google drive
@@ -49,7 +49,7 @@ The aim of this project is to build a pdf chatbot using open source Large Langua
   * upload the python file (colab_model_gdrive.py) which contains the LLM code
   * run the ipynb script
 
-#  CPU folder - 
+###  CPU folder - 
 
 This requires Ollama. Ollama allows you to run open-source large language models, such as Llama 2, locally.
 
