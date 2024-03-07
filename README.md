@@ -53,6 +53,8 @@ The aim of this project is to build a pdf chatbot using open source Large Langua
 
 This requires Ollama. Ollama allows you to run open-source large language models, such as Llama 2, locally.
 
+  * Install WSL and install Ollama(for linux) in WSL. Installation steps for both are given 
+
 
 
 
