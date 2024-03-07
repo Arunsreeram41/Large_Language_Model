@@ -58,7 +58,8 @@ This requires Ollama. Ollama allows you to run open-source large language models
   * keep the pdfs folder and the python files in a desired location in your local system
   * all the files which are present in the windows are accessible in wsl
   * in wsl install the libraries present in the requirements.txt using "pip install -r requirements.txt"
-  * run the main_2.py 
+  * run the main_2.py using "streamlit run main_2.py"
+
 
 
 
