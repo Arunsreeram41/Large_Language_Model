@@ -44,16 +44,21 @@ The aim of this project is to build a pdf chatbot using open source Large Langua
 ### GPU folder -
   
   * download the model from the hugging face repository
+  * upload the ipynb file to the colab notebooks in google drive
   * upload the model in the google drive
   * upload the pdfs folder containing pdfs in the colab environment
-  * upload the python file (colab_model_gdrive.py) which contains the LLM code
+  * upload the python file (colab_model_gdrive.py) which contains the LLM code in the colab environment
   * run the ipynb script
 
 ###  CPU folder - 
 
 This requires Ollama. Ollama allows you to run open-source large language models, such as Llama 2, locally.
 
-  * Install WSL and install Ollama(for linux) in WSL. Installation steps for both are given 
+  * Install WSL and install Ollama(for linux) in WSL. Installation steps for both are given in the folder called files.
+  * keep the pdfs folder and the python files in a desired location in your local system
+  * all the files which are present in the windows are accessible in wsl
+  * in wsl install the libraries present in the requirements.txt using "pip install -r requirements.txt"
+  * run the main_2.py 
 
 
 
