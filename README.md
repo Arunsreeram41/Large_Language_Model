@@ -47,7 +47,8 @@ The aim of this project is to build a pdf chatbot using open source Large Langua
   * upload the ipynb file to the colab notebooks in google drive
   * upload the model in the google drive
   * upload the pdfs folder containing pdfs in the colab environment
-  * upload the python file (colab_model_gdrive.py) in the colab environment, which contains the LLM code 
+  * upload the python file (colab_model_gdrive.py) in the colab environment, which contains the LLM code
+  * change the runtime type to T4
   * run the ipynb script
 
 ###  CPU folder - 
