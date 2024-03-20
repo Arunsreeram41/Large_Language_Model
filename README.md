@@ -36,7 +36,7 @@ The aim of this project is to build a pdf chatbot using open source Large Langua
 
 * The Stable LM zephyr model was run in CPU (8GB RAM)
 
-  environment : WSL (Windows Subsytem for Linux)
+  environment : WSL (Windows Subsytem for Linux). NOTE: If your system is 16GB RAM then WSL will take 8GB RAM(50% of your system RAM). So system should have minimum of 16GB RAM
 
   response time : 6 - 7 mins (variable)
 
